@@ -1,3 +1,5 @@
+### This project was made for SUPABASE HACKATHON 2024
+
 # Tic Tac Go
 
 This project was built as part of a tutorial series demonstrating how to build a real-time game with Supabase and Vue.
